@@ -1,0 +1,34 @@
+h1 {
+  color: blue;
+}
+
+ .lion {
+  border-style: solid;
+  border-color: yellow;
+  border-width: 10px;
+  border-radius: 50%;
+  width: 500px;
+  height: 500px;
+ }
+
+ .first {
+  font-size: 40px;
+  font-family: 'Courier New';
+  color: #330b52;
+  line-height: 70px;
+  }
+  body {
+    background-color: lightgrey;
+  }
+  .green {
+    background-color: green;
+    text-align: center;
+  }
+  #hr {
+    border-width: 5px;
+  }
+
+    .h {
+      font-size: 40px;
+      text-align: center;
+    }
